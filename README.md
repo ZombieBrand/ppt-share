@@ -1,11 +1,16 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 个人知识分享ppt
+
+## 说明
+
+这个项目是一个简单的内部知识分享ppt。
+
+项目基于[Slidev](https://github.com/slidevjs/slidev)!开发
+
 
 To start the slide show:
 
-- `npm install`
-- `npm run dev`
+- `yarn install`
+- `yarn dev`
 - visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev on [documentations](https://sli.dev/).
